@@ -3,7 +3,7 @@
     "short_name": "XLM Admin",
     "theme_color": "#959c94",
     "background_color": "#959c94",
-    "start_url": "/",
+    "start_url": "/sad-build",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [{

@@ -3,7 +3,7 @@
     "short_name": "XLM Admin",
     "theme_color": "#959c94",
     "background_color": "#959c94",
-    "start_url": "/sad-build",
+    "start_url": "/",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [{
@@ -14,6 +14,11 @@
         {
             "src": "\/sad-build/favicon-32x32.png",
             "sizes": "32x32",
+            "type": "image\/png"
+        },
+        {
+            "src": "\/mstile-150x150.png",
+            "sizes": "150x150",
             "type": "image\/png"
         },
         {
